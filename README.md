@@ -1,2 +1,2 @@
-# micro-expression-analysis-device-mead
-Repository for MEAD Project
+# Micro Expresson Analysis Device
+MEAD, inspired by the sociological concept of symbolic interactionism, is an AI summarizer that expands on current conversational summarization technology, which as of now is restricted to NLP, by adding an aspect of human behaviour analysis through computer vision. MEAD enriches the everyday online meeting, which has seen an increase in use since the pandemic, by allowing parties involved to gain clear and structured insight about the conversations they have. This technology aims to benefit any kind of entity that uses online meetings in their daily conduct, which could be schools, offices and the like. MEAD hopes to raise conversational efficiency and overall satisfaction of parties involved, making meetings matter.
