@@ -3,12 +3,12 @@ MEAD, inspired by the sociological concept of symbolic interactionism, is an AI 
 
 # Installation
 This project runs on Python 3.12.12, running on any version after may cause unwanted issues. Ensure that an all execution and installation is done in an environment with 3.12.12. To clone the repository run:
-´´´
+```
 git clone https://github.com/rashadrundi/micro-expression-analysis-device-mead.git
 cd micro-expression-analysis-device-mead
-´´´
+```
 
 After that, run the following to install dependencies:
-´´´
+```
 pip install -r requirements.txt
-´´´
+```
