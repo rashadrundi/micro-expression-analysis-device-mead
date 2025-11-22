@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import cv2
 import numpy as np
 
-
 def draw_landmarks_on_image(rgb_image, detection_result):
   face_landmarks_list = detection_result.face_landmarks
   annotated_image = np.copy(rgb_image)

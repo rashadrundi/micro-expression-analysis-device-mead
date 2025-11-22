@@ -5,6 +5,6 @@ smile = opensmile.Smile(
     feature_level=opensmile.FeatureLevel.Functionals
 )
 
-extracted_features = smile.process_file("test_audio/audio1.wav")
+extracted_features = smile.process_file("test_audio/audio1.wav").to_numpy()
 
 print(extracted_features)
