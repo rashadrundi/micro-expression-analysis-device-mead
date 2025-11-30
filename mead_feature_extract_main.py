@@ -1,39 +1,77 @@
 from mediapipe.tasks.python import vision
 import mediapipe as mp
-from mediapipe import solutions
-from mediapipe.framework.formats import landmark_pb2
-import numpy as np
-import matplotlib.pyplot as plt
-import cv2
 import numpy as np
 import opensmile
-import pandas
+import soundfile as sf
+import av
+from pydub import AudioSegment
 
-def get_features(image_dir, audio_dir):
-    # Grab feature array from facial landmarks using MediaPipe
-    base = mp.tasks.BaseOptions(model_asset_path="face_landmarker.task")
-    options = vision.FaceLandmarkerOptions(base_options=base,
-                                        num_faces=1)
-    detector = vision.FaceLandmarker.create_from_options(options)
+base = mp.tasks.BaseOptions(model_asset_path="face_landmarker.task")
+options = vision.FaceLandmarkerOptions(base_options=base,
+                                    num_faces=1)
+detector = vision.FaceLandmarker.create_from_options(options)
 
-    image = mp.Image.create_from_file(image_dir)
-
-    result = detector.detect(image)
-
-    face_features = np.array([[landmark.x, landmark.y, landmark.z] for face in result.face_landmarks for landmark in face]).flatten()
-
-    #Grab feature array from audio using OpenSMILE
-    smile = opensmile.Smile(
+smile = opensmile.Smile(
         feature_set=opensmile.FeatureSet.eGeMAPSv02,
-        feature_level=opensmile.FeatureLevel.Functionals
+        feature_level=opensmile.FeatureLevel.LowLevelDescriptors
     )
 
-    audio_features = smile.process_file(audio_dir).to_numpy().flatten()
+def mead_feature_list(video_path):
 
-    #Concatenate
-    final_array = np.concatenate((face_features, audio_features))
+    time_series = []
+    container = av.open(video_path)
 
-    return final_array
+    audio = AudioSegment.from_file(video_path)
+    audio.export("test_video/test_audio.wav", format="wav")
+    video_sf, sfsr = sf.read("test_video/test_audio.wav")
+    audio_duration = len(video_sf) / sfsr
+    video_stream = container.streams.video[0]
 
+    audio_window = 1/10
+    frame_window = 1/30
+    next_t = 0.0
+    frame_count = 0
+    expected_audio_length = int(audio_window * sfsr)
+    
+    current_audio_segment = np.zeros(expected_audio_length)
 
-print(get_features("test_faces/face.jpg", "test_audio/audio1.wav"))
+    for frame in container.decode(video_stream):
+        t = frame.pts * video_stream.time_base
+        
+        if t < next_t:
+            continue
+        image = mp.Image(
+            image_format=mp.ImageFormat.SRGB,
+            data=frame.to_ndarray(format="rgb24")
+        )
+
+        result = detector.detect(image)
+        face = result.face_landmarks[0]
+        face_features = np.array([[lm.x, lm.y, lm.z] for lm in face]).flatten()
+
+        if frame_count % 3 == 0 and t + audio_window <= audio_duration:
+            start_sample = int(t * sfsr)
+            end_sample = int((t + audio_window) * sfsr)
+            segment = video_sf[start_sample:end_sample]
+
+            if len(segment) < expected_audio_length:
+                segment = np.pad(segment, (0, expected_audio_length - len(segment)), mode='constant')
+            
+            current_audio_segment = segment
+
+        voice_features = smile.process_signal(
+            current_audio_segment,
+            sfsr
+        ).to_numpy().flatten()
+
+        next_t += frame_window
+        frame_count += 1
+
+        time_step = np.concatenate((face_features, voice_features))
+        print(time_step)
+
+        time_series.append(time_step)
+
+    return time_series
+
+print(mead_feature_list("test_video/video_test_first.mp4"))
