@@ -1,6 +1,6 @@
 av==16.0.1
 mediapipe==0.10.21
-numpy==2.3.5
+numpy==1.26.4
 opensmile==2.6.0
 pydub==0.25.1
 soundfile==0.13.1
