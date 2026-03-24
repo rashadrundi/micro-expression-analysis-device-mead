@@ -1,0 +1,2002 @@
+[
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_1.mp4.npy",
+    "v": "-0.345701782852",
+    "a": "0.101285536061"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_2.mp4.npy",
+    "v": "-0.420727768781",
+    "a": "0.0962556351496"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_3.mp4.npy",
+    "v": "-0.445180396573",
+    "a": "0.228971917322"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_4.mp4.npy",
+    "v": "-0.259251286696",
+    "a": "0.192381891118"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_5.mp4.npy",
+    "v": "-0.476546334832",
+    "a": "0.145036006893"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_6.mp4.npy",
+    "v": "-0.391777381074",
+    "a": "0.154583118367"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_7.mp4.npy",
+    "v": "-0.246855895592",
+    "a": "0.151967076644"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_8.mp4.npy",
+    "v": "-0.421217393561",
+    "a": "0.0898174527755"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_9.mp4.npy",
+    "v": "-0.340806132908",
+    "a": "0.0690685865169"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_10.mp4.npy",
+    "v": "-0.34890805542",
+    "a": "0.124766413205"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_11.mp4.npy",
+    "v": "-0.579282817077",
+    "a": "0.245231803394"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_12.mp4.npy",
+    "v": "-0.682328613563",
+    "a": "0.191231575084"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_13.mp4.npy",
+    "v": "-0.500522839808",
+    "a": "0.22422883923"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_14.mp4.npy",
+    "v": "-0.379475943489",
+    "a": "0.139232466799"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_15.mp4.npy",
+    "v": "-0.437938268842",
+    "a": "0.380411277891"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_16.mp4.npy",
+    "v": "-0.304030650186",
+    "a": "0.189841282594"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_17.mp4.npy",
+    "v": "-0.366381008264",
+    "a": "0.16845599029199998"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_18.mp4.npy",
+    "v": "-0.45323176396",
+    "a": "0.4072379372860001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_19.mp4.npy",
+    "v": "-0.3795817540300001",
+    "a": "0.259271858125"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_20.mp4.npy",
+    "v": "-0.712417450416",
+    "a": "0.249470333277"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_21.mp4.npy",
+    "v": "-0.658494302417",
+    "a": "0.195270009833"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_22.mp4.npy",
+    "v": "-0.443513133297",
+    "a": "0.289740101998"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_23.mp4.npy",
+    "v": "-0.505298746605",
+    "a": "0.59195435547"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_27.mp4.npy",
+    "v": "-0.512250961683",
+    "a": "0.130645092496"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8c56c5ac5_utterance_28.mp4.npy",
+    "v": "-0.499032193363",
+    "a": "0.194935250914"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_1.mp4.npy",
+    "v": "0.665830071665",
+    "a": "0.123479561507"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_2.mp4.npy",
+    "v": "0.6507649529940001",
+    "a": "0.176658985679"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_3.mp4.npy",
+    "v": "0.682171496949",
+    "a": "0.0661572419192"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_4.mp4.npy",
+    "v": "0.461225866227",
+    "a": "0.089934732059"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_5.mp4.npy",
+    "v": "0.617808544766",
+    "a": "0.0470916859373"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_6.mp4.npy",
+    "v": "0.776974133486",
+    "a": "0.266106586413"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_7.mp4.npy",
+    "v": "0.517389320659",
+    "a": "0.06829668906240001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_8.mp4.npy",
+    "v": "0.492275101254",
+    "a": "0.277739069585"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_9.mp4.npy",
+    "v": "0.576011227945",
+    "a": "0.31172484829"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_10.mp4.npy",
+    "v": "0.476878970293",
+    "a": "0.380441644841"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/76eecf968_utterance_11.mp4.npy",
+    "v": "0.288281365464",
+    "a": "0.195168493726"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_1.mp4.npy",
+    "v": "-0.0587310885545",
+    "a": "0.365209606469"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_2.mp4.npy",
+    "v": "0.15538682125999995",
+    "a": "0.581527306536"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_3.mp4.npy",
+    "v": "0.264662283605",
+    "a": "0.6566907830709999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_4.mp4.npy",
+    "v": "-0.24361595568",
+    "a": "0.597434104002"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_5.mp4.npy",
+    "v": "-0.4907647035230001",
+    "a": "0.584743291963"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_6.mp4.npy",
+    "v": "-0.103704552482",
+    "a": "0.09429735018410003"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_7.mp4.npy",
+    "v": "0.0",
+    "a": "0.252232769103"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_8.mp4.npy",
+    "v": "0.0558358040238",
+    "a": "0.37745273142"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_9.mp4.npy",
+    "v": "-0.066377779342",
+    "a": "0.228462301989"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_10.mp4.npy",
+    "v": "-0.454533346407",
+    "a": "0.34042860772600003"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_11.mp4.npy",
+    "v": "-0.385959675895",
+    "a": "0.418376712397"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_12.mp4.npy",
+    "v": "-0.430351892914",
+    "a": "0.33929958044200004"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_13.mp4.npy",
+    "v": "-0.5402967747999999",
+    "a": "0.728490294728"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_14.mp4.npy",
+    "v": "0.0397952806293",
+    "a": "0.418309853262"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_16.mp4.npy",
+    "v": "-0.369328434556",
+    "a": "0.31531656506"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_17.mp4.npy",
+    "v": "-0.0331803700718",
+    "a": "0.417757040641"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_18.mp4.npy",
+    "v": "-0.201516632693",
+    "a": "0.326910681649"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_19.mp4.npy",
+    "v": "-0.530004094494",
+    "a": "0.313991820292"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_20.mp4.npy",
+    "v": "0.343402161932",
+    "a": "0.33294585907900004"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7459327df_utterance_21.mp4.npy",
+    "v": "0.522767028189",
+    "a": "0.301174623701"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_1.mp4.npy",
+    "v": "0.258145873397",
+    "a": "0.535749773288"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_3.mp4.npy",
+    "v": "0.120797642859",
+    "a": "0.688468984762"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_4.mp4.npy",
+    "v": "0.0359714799198",
+    "a": "0.710031303537"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_5.mp4.npy",
+    "v": "0.0174211471392",
+    "a": "0.761686583979"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_6.mp4.npy",
+    "v": "0.0478978750662",
+    "a": "0.754284040106"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_7.mp4.npy",
+    "v": "0.084120891391",
+    "a": "0.7991242809610001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_8.mp4.npy",
+    "v": "0.12944819007000002",
+    "a": "0.8035046204520001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/b32a6ac3b_utterance_9.mp4.npy",
+    "v": "0.137017002519",
+    "a": "0.778258149701"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_2.mp4.npy",
+    "v": "-0.673888960019",
+    "a": "0.286762763684"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_3.mp4.npy",
+    "v": "-0.6812219154539999",
+    "a": "0.474581023651"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_4.mp4.npy",
+    "v": "-0.629839951726",
+    "a": "0.349103677182"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_5.mp4.npy",
+    "v": "-0.562134288274",
+    "a": "0.461702205362"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_6.mp4.npy",
+    "v": "-0.6173577194250001",
+    "a": "0.230323304633"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_7.mp4.npy",
+    "v": "-0.0250921655378",
+    "a": "0.426936094535"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_8.mp4.npy",
+    "v": "-0.231841257413",
+    "a": "0.618998133183"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c9f0e3623_utterance_9.mp4.npy",
+    "v": "-0.0311864903214",
+    "a": "0.428346783087"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_1.mp4.npy",
+    "v": "0.0414509563481",
+    "a": "0.34819847261"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_2.mp4.npy",
+    "v": "0.0201866592622",
+    "a": "0.245751687225"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_3.mp4.npy",
+    "v": "0.0168355411736",
+    "a": "0.34020221002499995"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_4.mp4.npy",
+    "v": "0.134796535913",
+    "a": "0.20750689055"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_5.mp4.npy",
+    "v": "0.259584165627",
+    "a": "0.212595681324"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_7.mp4.npy",
+    "v": "0.304592699419",
+    "a": "0.204828655658"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_8.mp4.npy",
+    "v": "0.323128236491",
+    "a": "0.389820812815"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_9.mp4.npy",
+    "v": "0.24276064209000006",
+    "a": "0.201798495619"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_10.mp4.npy",
+    "v": "0.25978871165600004",
+    "a": "0.404260829788"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_11.mp4.npy",
+    "v": "0.33593387455799995",
+    "a": "0.309463632038"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_12.mp4.npy",
+    "v": "0.27017007131",
+    "a": "0.17491090988400002"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_13.mp4.npy",
+    "v": "0.360803671319",
+    "a": "0.331487488462"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_14.mp4.npy",
+    "v": "0.202802865366",
+    "a": "0.203011779982"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_16.mp4.npy",
+    "v": "0.309553192186",
+    "a": "0.20971056624"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_17.mp4.npy",
+    "v": "0.44634092924",
+    "a": "0.17770945945"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_18.mp4.npy",
+    "v": "0.277893977388",
+    "a": "0.191369324196"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_19.mp4.npy",
+    "v": "0.151007374163",
+    "a": "0.134338452451"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_20.mp4.npy",
+    "v": "0.353285486055",
+    "a": "0.158163933265"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_21.mp4.npy",
+    "v": "0.08897632161139997",
+    "a": "0.056112577918800005"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_22.mp4.npy",
+    "v": "0.26939040929200003",
+    "a": "0.110067296003"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_23.mp4.npy",
+    "v": "0.211981142241",
+    "a": "0.122507103173"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_31.mp4.npy",
+    "v": "0.34427925396",
+    "a": "0.36378983804"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_32.mp4.npy",
+    "v": "0.145966398937",
+    "a": "0.130363005264"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_33.mp4.npy",
+    "v": "0.17798738761100005",
+    "a": "0.14743351776"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_34.mp4.npy",
+    "v": "0.156262469598",
+    "a": "0.102254666121"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_35.mp4.npy",
+    "v": "0.132725063169",
+    "a": "0.0794473738758"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_36.mp4.npy",
+    "v": "0.221931876779",
+    "a": "0.146773224696"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_37.mp4.npy",
+    "v": "0.161202300594",
+    "a": "0.165285451321"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_38.mp4.npy",
+    "v": "0.116232659845",
+    "a": "0.07317126252299999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_39.mp4.npy",
+    "v": "0.180785790811",
+    "a": "0.134640955149"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_40.mp4.npy",
+    "v": "0.29252945015",
+    "a": "0.14330854375"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_41.mp4.npy",
+    "v": "0.08787621975719999",
+    "a": "0.0934020940356"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_42.mp4.npy",
+    "v": "0.230144220923",
+    "a": "0.130041115491"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_43.mp4.npy",
+    "v": "0.144680523196",
+    "a": "0.277255210492"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_44.mp4.npy",
+    "v": "0.246282590568",
+    "a": "0.110059440123"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_45.mp4.npy",
+    "v": "0.171987318",
+    "a": "0.063981815019"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_48.mp4.npy",
+    "v": "0.152872963065",
+    "a": "0.13585073346100002"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_49.mp4.npy",
+    "v": "0.31620903632",
+    "a": "0.239800079183"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_53.mp4.npy",
+    "v": "0.290491382849",
+    "a": "0.353295816727"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_54.mp4.npy",
+    "v": "0.306844777982",
+    "a": "0.408434302943"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_56.mp4.npy",
+    "v": "0.15398649110200002",
+    "a": "0.15342377832499998"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_57.mp4.npy",
+    "v": "0.145951250865",
+    "a": "0.135628930576"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_58.mp4.npy",
+    "v": "0.08217242420780001",
+    "a": "0.221240151369"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_59.mp4.npy",
+    "v": "0.0949886120255",
+    "a": "0.243188850259"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_60.mp4.npy",
+    "v": "0.07537777696810001",
+    "a": "0.161709654538"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_61.mp4.npy",
+    "v": "-0.0962963147624",
+    "a": "0.16192670726"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_62.mp4.npy",
+    "v": "0.052411837434400005",
+    "a": "0.16207457867699998"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_63.mp4.npy",
+    "v": "-0.0937314497091",
+    "a": "0.0788833025486"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_64.mp4.npy",
+    "v": "0.0658226472676",
+    "a": "0.030862284718"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_65.mp4.npy",
+    "v": "0.011669415078",
+    "a": "0.258576822785"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_66.mp4.npy",
+    "v": "-0.050789323272699985",
+    "a": "0.0965694313785"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_67.mp4.npy",
+    "v": "0.075326868892",
+    "a": "0.0511751287465"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_68.mp4.npy",
+    "v": "0.0950227549961",
+    "a": "0.0974730740476"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_69.mp4.npy",
+    "v": "0.155179769215",
+    "a": "0.104270649546"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_70.mp4.npy",
+    "v": "-0.0236187070414",
+    "a": "0.205994742849"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_71.mp4.npy",
+    "v": "0.170391145829",
+    "a": "0.11708796978"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_72.mp4.npy",
+    "v": "0.0445584911032",
+    "a": "0.07712125950069999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_73.mp4.npy",
+    "v": "0.0",
+    "a": "0.0330542083486"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_74.mp4.npy",
+    "v": "0.0834601091872",
+    "a": "0.0504606745986"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_75.mp4.npy",
+    "v": "-0.023342072669000003",
+    "a": "0.134928557446"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_76.mp4.npy",
+    "v": "0.117243447688",
+    "a": "0.143723503177"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_77.mp4.npy",
+    "v": "0.137939243567",
+    "a": "0.16547285987"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_78.mp4.npy",
+    "v": "-0.00227532383877",
+    "a": "0.10746757878"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_79.mp4.npy",
+    "v": "0.189943314122",
+    "a": "0.12405302308"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_80.mp4.npy",
+    "v": "-0.0347408680284",
+    "a": "0.402994560411"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_81.mp4.npy",
+    "v": "-0.0596232865483",
+    "a": "0.410996526935"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_82.mp4.npy",
+    "v": "-0.0670393899935",
+    "a": "0.259438419197"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_83.mp4.npy",
+    "v": "-0.0976808085451",
+    "a": "0.183297526901"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_84.mp4.npy",
+    "v": "-0.068181566576",
+    "a": "0.191453742383"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_85.mp4.npy",
+    "v": "-0.0356620643662",
+    "a": "0.32064340627"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_86.mp4.npy",
+    "v": "-0.0212296455381",
+    "a": "0.378993297438"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_87.mp4.npy",
+    "v": "-0.103736492094",
+    "a": "0.255022350612"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_88.mp4.npy",
+    "v": "-0.127169354521",
+    "a": "0.258329551709"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_89.mp4.npy",
+    "v": "0.101944733702",
+    "a": "0.147882404762"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_90.mp4.npy",
+    "v": "0.061198426932",
+    "a": "0.199947322663"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_91.mp4.npy",
+    "v": "-0.111592684242",
+    "a": "0.190811058226"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_92.mp4.npy",
+    "v": "-0.059253934173",
+    "a": "0.285412844862"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/cbb64e001_utterance_93.mp4.npy",
+    "v": "0.245840217459",
+    "a": "0.47764210047"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1f1da840a_1_utterance_2.mp4.npy",
+    "v": "-0.199673560169",
+    "a": "0.114272900906"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1f1da840a_1_utterance_4.mp4.npy",
+    "v": "0.551506624863",
+    "a": "0.812703206306"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1f1da840a_1_utterance_7.mp4.npy",
+    "v": "0.425986009412",
+    "a": "0.456079547618"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1f1da840a_1_utterance_8.mp4.npy",
+    "v": "0.156214137993",
+    "a": "0.331847352614"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_3.mp4.npy",
+    "v": "0.106001570598",
+    "a": "0.7089318205189999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_10.mp4.npy",
+    "v": "-0.102186645549",
+    "a": "0.657327376532"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_11.mp4.npy",
+    "v": "0.208573792997",
+    "a": "0.38526804864"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_15.mp4.npy",
+    "v": "0.306926683498",
+    "a": "0.663950791165"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_18.mp4.npy",
+    "v": "0.0475213788298",
+    "a": "0.416882496064"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_23.mp4.npy",
+    "v": "0.200304638071",
+    "a": "0.691333638172"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_24.mp4.npy",
+    "v": "0.224855067786",
+    "a": "0.506628082375"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_30.mp4.npy",
+    "v": "0.427895161143",
+    "a": "0.6772518872679999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/2c09795bb_1_utterance_40.mp4.npy",
+    "v": "0.307865424057",
+    "a": "0.58663545368"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4ce6dec16_1_utterance_1.mp4.npy",
+    "v": "0.425656905461",
+    "a": "0.00504617101265"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4ce6dec16_1_utterance_2.mp4.npy",
+    "v": "0.364725943597",
+    "a": "0.418248169508"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4ce6dec16_1_utterance_3.mp4.npy",
+    "v": "0.556072577993",
+    "a": "0.326603324975"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7a0306a52_1_utterance_1.mp4.npy",
+    "v": "-0.252839711707",
+    "a": "0.498326934473"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7a0306a52_1_utterance_2.mp4.npy",
+    "v": "-0.594729328084",
+    "a": "0.630197781105"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7a0306a52_1_utterance_3.mp4.npy",
+    "v": "-0.5819654992459999",
+    "a": "0.390671456248"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7a0306a52_1_utterance_4.mp4.npy",
+    "v": "0.154078114883",
+    "a": "0.283687194469"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7c05a1135_1_utterance_1.mp4.npy",
+    "v": "0.21709478579100006",
+    "a": "0.199047325837"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7c05a1135_1_utterance_3.mp4.npy",
+    "v": "0.581373646591",
+    "a": "0.886060134223"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7c05a1135_1_utterance_4.mp4.npy",
+    "v": "0.614145234674",
+    "a": "0.938799819733"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7c05a1135_1_utterance_5.mp4.npy",
+    "v": "0.5625570795170001",
+    "a": "0.928923286973"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7c05a1135_1_utterance_6.mp4.npy",
+    "v": "0.419657229859",
+    "a": "0.394724505348"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7c05a1135_1_utterance_7.mp4.npy",
+    "v": "0.56683296169",
+    "a": "0.519596097767"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_1.mp4.npy",
+    "v": "-0.13289879870899998",
+    "a": "0.472119916322"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_2.mp4.npy",
+    "v": "-0.422551043365",
+    "a": "0.0954950379704"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_3.mp4.npy",
+    "v": "-0.423730146176",
+    "a": "0.330811434677"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_5.mp4.npy",
+    "v": "-0.352160981375",
+    "a": "0.529214765596"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_7.mp4.npy",
+    "v": "-0.376191381405",
+    "a": "0.430420944048"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_8.mp4.npy",
+    "v": "-0.436149035272",
+    "a": "0.437992068958"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_10.mp4.npy",
+    "v": "-0.446108215004",
+    "a": "0.544854380547"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_11.mp4.npy",
+    "v": "-0.477158732008",
+    "a": "0.505698580012"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_12.mp4.npy",
+    "v": "-0.34835832211999995",
+    "a": "0.352243405657"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_13.mp4.npy",
+    "v": "-0.4942288860320001",
+    "a": "0.5256359518"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_14.mp4.npy",
+    "v": "-0.19557021983",
+    "a": "0.518725687212"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/7fbf1c1c7_1_utterance_15.mp4.npy",
+    "v": "-0.457323964265",
+    "a": "0.497478202237"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/55a78acb5_1_utterance_1.mp4.npy",
+    "v": "0.0924415825561",
+    "a": "0.6932967058149999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/55a78acb5_1_utterance_2.mp4.npy",
+    "v": "0.285501366952",
+    "a": "0.426218870643"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/55a78acb5_1_utterance_3.mp4.npy",
+    "v": "-0.206595705887",
+    "a": "0.915079313654"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/55a78acb5_1_utterance_4.mp4.npy",
+    "v": "0.13271043226",
+    "a": "0.827015550384"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/793f836eb_1_utterance_1.mp4.npy",
+    "v": "0.8236932653669999",
+    "a": "0.808877163253"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/793f836eb_1_utterance_2.mp4.npy",
+    "v": "0.53901887005",
+    "a": "0.62694053166"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/793f836eb_1_utterance_3.mp4.npy",
+    "v": "0.58752285095",
+    "a": "0.601642022056"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/793f836eb_1_utterance_4.mp4.npy",
+    "v": "0.416888966086",
+    "a": "0.7716437690719999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/793f836eb_1_utterance_5.mp4.npy",
+    "v": "0.472707267084",
+    "a": "0.321750947749"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/793f836eb_1_utterance_6.mp4.npy",
+    "v": "0.587138481991",
+    "a": "0.338690172575"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/793f836eb_1_utterance_7.mp4.npy",
+    "v": "0.761797051063",
+    "a": "0.407548154093"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/9280b821f_1_utterance_3.mp4.npy",
+    "v": "-0.338888607374",
+    "a": "0.773226754777"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/9280b821f_1_utterance_5.mp4.npy",
+    "v": "0.738358057693",
+    "a": "0.56347236596"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/9280b821f_1_utterance_6.mp4.npy",
+    "v": "0.465015582059",
+    "a": "0.565834061466"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/68062fe15_1_utterance_1.mp4.npy",
+    "v": "-0.723014326684",
+    "a": "0.399490695724"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/68062fe15_1_utterance_2.mp4.npy",
+    "v": "-0.747327450602",
+    "a": "0.0531984899019"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/68062fe15_1_utterance_3.mp4.npy",
+    "v": "-0.7261960545630001",
+    "a": "0.0"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/68062fe15_1_utterance_4.mp4.npy",
+    "v": "-0.7202828858820001",
+    "a": "0.576723839964"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/68062fe15_1_utterance_6.mp4.npy",
+    "v": "0.0360649031008",
+    "a": "0.0799877294597"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8563171cd_1_utterance_1.mp4.npy",
+    "v": "0.502",
+    "a": "0.40022559089"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8563171cd_1_utterance_2.mp4.npy",
+    "v": "0.726",
+    "a": "0.164081688805"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8563171cd_1_utterance_3.mp4.npy",
+    "v": "-0.417",
+    "a": "0.521772477477"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/8563171cd_1_utterance_4.mp4.npy",
+    "v": "0.434",
+    "a": "0.366284810557"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/133194836_1_utterance_1.mp4.npy",
+    "v": "-0.499713707079",
+    "a": "0.386653659426"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/133194836_1_utterance_2.mp4.npy",
+    "v": "-0.34077956473899995",
+    "a": "0.750361990919"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/133194836_1_utterance_3.mp4.npy",
+    "v": "0.00405516233979",
+    "a": "0.272034199467"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_1.mp4.npy",
+    "v": "0.7659965065530001",
+    "a": "0.89069257543"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_2.mp4.npy",
+    "v": "0.351136723652",
+    "a": "0.449737090551"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_3.mp4.npy",
+    "v": "-0.5691019207",
+    "a": "0.483337502892"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_4.mp4.npy",
+    "v": "-0.649500323271",
+    "a": "0.4956306136150001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_5.mp4.npy",
+    "v": "-0.539053207975",
+    "a": "0.5903617198969999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_6.mp4.npy",
+    "v": "-0.543857286321",
+    "a": "0.345237174222"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_7.mp4.npy",
+    "v": "-0.328919618642",
+    "a": "0.522453623476"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_8.mp4.npy",
+    "v": "-0.53684430406",
+    "a": "0.56766185592"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_9.mp4.npy",
+    "v": "-0.4689939957280001",
+    "a": "0.462891883414"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_10.mp4.npy",
+    "v": "-0.563047954251",
+    "a": "0.684590117816"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/c1ff32351_1_utterance_11.mp4.npy",
+    "v": "-0.527774554968",
+    "a": "0.350841269504"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/e60748aab_1_utterance_1.mp4.npy",
+    "v": "0.8783075023799999",
+    "a": "0.119696875546"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/e60748aab_1_utterance_2.mp4.npy",
+    "v": "0.281230441052",
+    "a": "0.199675325652"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/e60748aab_1_utterance_3.mp4.npy",
+    "v": "0.108144921385",
+    "a": "0.297542329942"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/e60748aab_1_utterance_4.mp4.npy",
+    "v": "0.448415849489",
+    "a": "0.30287240109200003"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/e60748aab_1_utterance_5.mp4.npy",
+    "v": "0.623745447996",
+    "a": "0.316365799747"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/e60748aab_1_utterance_6.mp4.npy",
+    "v": "0.406956374017",
+    "a": "0.228815442828"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/e60748aab_1_utterance_7.mp4.npy",
+    "v": "0.5114030024580001",
+    "a": "0.194994747677"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_1.mp4.npy",
+    "v": "0.848943631145",
+    "a": "0.0245243292985"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_2.mp4.npy",
+    "v": "0.759758336885",
+    "a": "0.606116029369"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_3.mp4.npy",
+    "v": "0.7180550863490001",
+    "a": "0.599491707158"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_4.mp4.npy",
+    "v": "0.68380739949",
+    "a": "0.589026202296"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_5.mp4.npy",
+    "v": "-0.0115913565802",
+    "a": "0.561281448393"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_6.mp4.npy",
+    "v": "0.299543601374",
+    "a": "0.637150897065"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_8.mp4.npy",
+    "v": "-0.0583969985333",
+    "a": "0.414497581394"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f0fdfc967_1_utterance_9.mp4.npy",
+    "v": "-0.4835360959100001",
+    "a": "0.55408669294"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_1.mp4.npy",
+    "v": "0.281219935199",
+    "a": "0.495976594058"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_2.mp4.npy",
+    "v": "0.24368467848",
+    "a": "0.441311659086"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_3.mp4.npy",
+    "v": "0.353885702974",
+    "a": "0.602112681531"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_4.mp4.npy",
+    "v": "0.17076802819000006",
+    "a": "0.306517063391"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_5.mp4.npy",
+    "v": "0.0234417089043",
+    "a": "0.427513563843"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_6.mp4.npy",
+    "v": "0.225667046671",
+    "a": "0.36440435308"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_7.mp4.npy",
+    "v": "0.173724661463",
+    "a": "0.46638764762"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_8.mp4.npy",
+    "v": "0.259415568702",
+    "a": "0.352548865114"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_9.mp4.npy",
+    "v": "0.107193412083",
+    "a": "0.385968860438"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_10.mp4.npy",
+    "v": "0.145761076385",
+    "a": "0.41974214794"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_11.mp4.npy",
+    "v": "0.123769545917",
+    "a": "0.463876072133"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_12.mp4.npy",
+    "v": "0.297549754143",
+    "a": "0.497565780398"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_13.mp4.npy",
+    "v": "0.28345710586100004",
+    "a": "0.600400910104"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_14.mp4.npy",
+    "v": "0.406573354383",
+    "a": "0.772586961014"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_15.mp4.npy",
+    "v": "0.349516307453",
+    "a": "0.495062122573"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_16.mp4.npy",
+    "v": "0.29223559397300003",
+    "a": "0.525086932379"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_17.mp4.npy",
+    "v": "0.277952839267",
+    "a": "0.489003009666"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_18.mp4.npy",
+    "v": "0.302493520592",
+    "a": "0.44052033597"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_19.mp4.npy",
+    "v": "0.236394598661",
+    "a": "0.450716538132"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_20.mp4.npy",
+    "v": "0.280126553816",
+    "a": "0.466811748716"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_21.mp4.npy",
+    "v": "0.300388874267",
+    "a": "0.467331154882"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_22.mp4.npy",
+    "v": "0.287579390486",
+    "a": "0.448961530047"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_23.mp4.npy",
+    "v": "0.260096990587",
+    "a": "0.442776980808"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_25.mp4.npy",
+    "v": "0.24139941114",
+    "a": "0.400328578071"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_26.mp4.npy",
+    "v": "0.26148503114",
+    "a": "0.390823844803"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_27.mp4.npy",
+    "v": "0.230436138138",
+    "a": "0.35770340048199994"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_28.mp4.npy",
+    "v": "0.327152386859",
+    "a": "0.419568623239"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_29.mp4.npy",
+    "v": "0.356945125836",
+    "a": "0.437554689053"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_30.mp4.npy",
+    "v": "0.31829704834",
+    "a": "0.411128187683"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_31.mp4.npy",
+    "v": "0.152804915787",
+    "a": "0.42771789801"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_32.mp4.npy",
+    "v": "0.350530588841",
+    "a": "0.505747849219"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_33.mp4.npy",
+    "v": "0.0663289828488",
+    "a": "0.538591487098"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_34.mp4.npy",
+    "v": "0.279953858914",
+    "a": "0.716576734606"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_35.mp4.npy",
+    "v": "0.228959309129",
+    "a": "0.620356379314"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_36.mp4.npy",
+    "v": "0.398508119715",
+    "a": "0.488620295467"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_1_utterance_37.mp4.npy",
+    "v": "0.431108753354",
+    "a": "0.622144863232"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_38.mp4.npy",
+    "v": "0.07803180759980001",
+    "a": "0.5075306907289999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_39.mp4.npy",
+    "v": "0.374028654367",
+    "a": "0.331782290369"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_40.mp4.npy",
+    "v": "0.0645662683923",
+    "a": "0.399768689065"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_41.mp4.npy",
+    "v": "-0.106217843034",
+    "a": "0.418431729581"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_42.mp4.npy",
+    "v": "-0.264734908153",
+    "a": "0.489732581984"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_43.mp4.npy",
+    "v": "-0.35414755622199995",
+    "a": "0.350634966415"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_44.mp4.npy",
+    "v": "0.0837054854804",
+    "a": "0.364304976544"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_46.mp4.npy",
+    "v": "-0.530823461846",
+    "a": "0.250428894673"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_49.mp4.npy",
+    "v": "-0.374916799234",
+    "a": "0.310017952319"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_50.mp4.npy",
+    "v": "-0.233761081246",
+    "a": "0.5055233950379999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_51.mp4.npy",
+    "v": "-0.32743897455",
+    "a": "0.550684502205"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_53.mp4.npy",
+    "v": "-0.364732076117",
+    "a": "0.278290380994"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_54.mp4.npy",
+    "v": "-0.42379526113",
+    "a": "0.307916755731"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_55.mp4.npy",
+    "v": "-0.219661759705",
+    "a": "0.379767374589"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_56.mp4.npy",
+    "v": "-0.265281461399",
+    "a": "0.341555802703"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_57.mp4.npy",
+    "v": "-0.396298585122",
+    "a": "0.391152050788"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_59.mp4.npy",
+    "v": "-0.0354975935206",
+    "a": "0.445934714203"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_60.mp4.npy",
+    "v": "-0.223525479621",
+    "a": "0.364460110738"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_61.mp4.npy",
+    "v": "-0.122198968769",
+    "a": "0.393860784264"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_62.mp4.npy",
+    "v": "0.13326056002599998",
+    "a": "0.534184607623"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_63.mp4.npy",
+    "v": "0.07605338800110001",
+    "a": "0.35311074435999995"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_64.mp4.npy",
+    "v": "-0.282336109286",
+    "a": "0.440435411008"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_65.mp4.npy",
+    "v": "0.0260278305369",
+    "a": "0.458751753043"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_66.mp4.npy",
+    "v": "-0.0733750548624",
+    "a": "0.42550228846"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_67.mp4.npy",
+    "v": "0.063737814322",
+    "a": "0.393857137154"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_68.mp4.npy",
+    "v": "0.0549126576952",
+    "a": "0.327015278705"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_69.mp4.npy",
+    "v": "0.0755123123413",
+    "a": "0.444321052636"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_70.mp4.npy",
+    "v": "0.167200738091",
+    "a": "0.445939526977"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_71.mp4.npy",
+    "v": "0.36948417931",
+    "a": "0.474810727127"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_72.mp4.npy",
+    "v": "0.387872058438",
+    "a": "0.6803106372750001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_73.mp4.npy",
+    "v": "0.392394843726",
+    "a": "0.536235751867"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_74.mp4.npy",
+    "v": "0.41019360864",
+    "a": "0.38857751859"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_75.mp4.npy",
+    "v": "0.234929785377",
+    "a": "0.303109198856"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_76.mp4.npy",
+    "v": "0.01619716831",
+    "a": "0.21273832299000006"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_77.mp4.npy",
+    "v": "0.4042625014940001",
+    "a": "0.480486891647"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_78.mp4.npy",
+    "v": "0.269690525031",
+    "a": "0.482773249153"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_79.mp4.npy",
+    "v": "0.582460291686",
+    "a": "0.543685525162"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_80.mp4.npy",
+    "v": "0.7542994664730001",
+    "a": "0.7076550571469999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_81.mp4.npy",
+    "v": "0.660006514488",
+    "a": "0.538665657821"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_82.mp4.npy",
+    "v": "0.457758593463",
+    "a": "0.474520968218"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_83.mp4.npy",
+    "v": "0.274254809943",
+    "a": "0.310458896662"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_84.mp4.npy",
+    "v": "0.521591666598",
+    "a": "0.426382805194"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_86.mp4.npy",
+    "v": "0.48058193722",
+    "a": "0.471812711728"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_87.mp4.npy",
+    "v": "0.199077888849",
+    "a": "0.383562350223"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_88.mp4.npy",
+    "v": "0.450499529026",
+    "a": "0.3915994322420001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_89.mp4.npy",
+    "v": "0.557751515426",
+    "a": "0.471818944522"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_90.mp4.npy",
+    "v": "0.0889743320416",
+    "a": "0.293106695811"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_91.mp4.npy",
+    "v": "0.473954999261",
+    "a": "0.461726043094"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_92.mp4.npy",
+    "v": "0.7708729384299999",
+    "a": "0.77815325187"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_94.mp4.npy",
+    "v": "0.596754136748",
+    "a": "0.787152020216"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_95.mp4.npy",
+    "v": "0.856867805248",
+    "a": "0.8298240804350001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_96.mp4.npy",
+    "v": "0.892371372537",
+    "a": "0.841017089962"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_98.mp4.npy",
+    "v": "0.688663487765",
+    "a": "0.436668545074"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_99.mp4.npy",
+    "v": "-0.370385319976",
+    "a": "0.188072700895"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_100.mp4.npy",
+    "v": "-0.164922698211",
+    "a": "0.362401643113"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_102.mp4.npy",
+    "v": "-0.0154382717797",
+    "a": "0.4125061172160001"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_103.mp4.npy",
+    "v": "0.511542968572",
+    "a": "0.6614376110019999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_104.mp4.npy",
+    "v": "-0.599324152468",
+    "a": "0.175651431301"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_106.mp4.npy",
+    "v": "-0.08404344673049999",
+    "a": "0.282801155191"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_107.mp4.npy",
+    "v": "0.144190075068",
+    "a": "0.379695958203"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_108.mp4.npy",
+    "v": "0.748420657818",
+    "a": "0.625305707895"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_109.mp4.npy",
+    "v": "0.8719330304009999",
+    "a": "0.625604395881"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/f8da01d25_2_utterance_110.mp4.npy",
+    "v": "0.377551584292",
+    "a": "0.287541463964"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b4e6e04c_1_utterance_1.mp4.npy",
+    "v": "-0.131505980361",
+    "a": "0.0112374229904"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b4e6e04c_1_utterance_2.mp4.npy",
+    "v": "-0.485595434654",
+    "a": "0.049873566868"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b4e6e04c_1_utterance_3.mp4.npy",
+    "v": "0.0477655338077",
+    "a": "0.219384603686"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b4e6e04c_1_utterance_4.mp4.npy",
+    "v": "0.046815247013800014",
+    "a": "0.29242851616"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b4e6e04c_1_utterance_5.mp4.npy",
+    "v": "-0.422374038565",
+    "a": "0.007550971074550002"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b4e6e04c_1_utterance_6.mp4.npy",
+    "v": "-0.292721894874",
+    "a": "0.017847749812599997"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b4e6e04c_1_utterance_7.mp4.npy",
+    "v": "-0.316556933694",
+    "a": "0.026771624718900003"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_1.mp4.npy",
+    "v": "0.432045781225",
+    "a": "0.147733262711"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_2.mp4.npy",
+    "v": "0.174971666328",
+    "a": "0.359701038901"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_3.mp4.npy",
+    "v": "0.0924347531082",
+    "a": "0.172446175432"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_4.mp4.npy",
+    "v": "0.171402105053",
+    "a": "0.15470544675"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_5.mp4.npy",
+    "v": "0.225006868749",
+    "a": "0.373510424681"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_6.mp4.npy",
+    "v": "0.289304772212",
+    "a": "0.378989878169"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_7.mp4.npy",
+    "v": "0.251244808972",
+    "a": "0.299245958527"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/1b6b8344c_1_utterance_8.mp4.npy",
+    "v": "0.207693457993",
+    "a": "0.253901122432"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_1.mp4.npy",
+    "v": "0.486860125976",
+    "a": "0.267779606755"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_3.mp4.npy",
+    "v": "-0.12698681881100002",
+    "a": "0.24437993601100005"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_4.mp4.npy",
+    "v": "-0.0710934799389",
+    "a": "0.169163154855"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_5.mp4.npy",
+    "v": "-0.344902497658",
+    "a": "0.30314310304000003"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_6.mp4.npy",
+    "v": "-0.389968201182",
+    "a": "0.477918635957"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_7.mp4.npy",
+    "v": "-0.209877832853",
+    "a": "0.227211723996"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_8.mp4.npy",
+    "v": "-0.347900103771",
+    "a": "0.212829067024"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_9.mp4.npy",
+    "v": "-0.209137995459",
+    "a": "0.358426427962"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_10.mp4.npy",
+    "v": "-0.182961330347",
+    "a": "0.433709428124"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_11.mp4.npy",
+    "v": "-0.168128710677",
+    "a": "0.148082869075"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_12.mp4.npy",
+    "v": "-0.107994817852",
+    "a": "0.0967669863951"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_13.mp4.npy",
+    "v": "-0.267894437353",
+    "a": "0.307677486248"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_14.mp4.npy",
+    "v": "-0.14837843757000002",
+    "a": "0.127911961301"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_16.mp4.npy",
+    "v": "-0.19136238233",
+    "a": "0.08273904124689999"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_17.mp4.npy",
+    "v": "-0.378644393135",
+    "a": "0.0772375792842"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_19.mp4.npy",
+    "v": "-0.222842832076",
+    "a": "0.150048510381"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/3df704c40_1_utterance_20.mp4.npy",
+    "v": "-0.442309150072",
+    "a": "0.513615164345"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_1.mp4.npy",
+    "v": "-0.454860522004",
+    "a": "0.610066866876"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_2.mp4.npy",
+    "v": "-0.402569970612",
+    "a": "0.447890146449"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_4.mp4.npy",
+    "v": "-0.343036658614",
+    "a": "0.514985442414"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_5.mp4.npy",
+    "v": "-0.4624799413090001",
+    "a": "0.632864015052"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_6.mp4.npy",
+    "v": "-0.35125897441",
+    "a": "0.496807326242"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_7.mp4.npy",
+    "v": "-0.350804298",
+    "a": "0.486239129102"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_8.mp4.npy",
+    "v": "0.08619444318260001",
+    "a": "0.634868228981"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_9.mp4.npy",
+    "v": "0.13817790829399998",
+    "a": "0.220175811832"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_10.mp4.npy",
+    "v": "0.164869489944",
+    "a": "0.415585463696"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_11.mp4.npy",
+    "v": "0.186733085688",
+    "a": "0.466239451838"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/4c0b2b579_1_utterance_12.mp4.npy",
+    "v": "0.32521128139100003",
+    "a": "0.51933209906"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_1.mp4.npy",
+    "v": "-0.656361360923",
+    "a": "0.695090443848"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_2.mp4.npy",
+    "v": "-0.507959082209",
+    "a": "0.335805279787"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_3.mp4.npy",
+    "v": "-0.0360749804601",
+    "a": "0.181534107031"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_4.mp4.npy",
+    "v": "-0.30868615393800003",
+    "a": "0.238519299206"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_5.mp4.npy",
+    "v": "-0.125528977708",
+    "a": "0.114988127483"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_6.mp4.npy",
+    "v": "-0.354832093004",
+    "a": "0.238381158568"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_7.mp4.npy",
+    "v": "-0.240056564924",
+    "a": "0.0871464240609"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_9.mp4.npy",
+    "v": "-0.512385409223",
+    "a": "0.0617666169549"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_10.mp4.npy",
+    "v": "-0.5730134936569999",
+    "a": "0.115098202325"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_12.mp4.npy",
+    "v": "-0.116415709977",
+    "a": "0.017387052411900004"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_13.mp4.npy",
+    "v": "-0.407989779701",
+    "a": "0.0751984074268"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_14.mp4.npy",
+    "v": "-0.145009573102",
+    "a": "0.0966507887047"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_15.mp4.npy",
+    "v": "-0.111970071282",
+    "a": "0.0867608069214"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_16.mp4.npy",
+    "v": "-0.420570299382",
+    "a": "0.130997082771"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_17.mp4.npy",
+    "v": "-0.146690204289",
+    "a": "0.270136078184"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_18.mp4.npy",
+    "v": "-0.477394627433",
+    "a": "0.224027930092"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_19.mp4.npy",
+    "v": "-0.434072466192",
+    "a": "0.173588579014"
+  },
+  {
+    "feature_path": "C:/Users/user/Documents/code/ml/mead-repo/micro-expression-analysis-device-mead/micro_expression_analysis_device_mead/dataset/features_train/5c33be3cd_1_utterance_20.mp4.npy",
+    "v": "-0.38216138773",
+    "a": "0.117284833702"
+  }
+]
